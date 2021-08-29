@@ -1,0 +1,15 @@
+Bước 1 tải xampp
+- Giải nén quanlygaubong
+- coppy thư mục vừa giải nén vào xampp->htdocs sau đó paste vào.
+
+Bước 2 bật xampp lên
+- start apache và mysql lên sau vào trình duyệt gõ localhost -> click vào phpadmin 
+- Sào đó tạo cơ sỡ dự liệu đặt tên là quanlygaubong
+-Tiếp theo import file QLGB.sql vào cơ sở dữ liệu quanligaubong
+
+
+Bước 3 chạy chương trình localhost/quanlygaubong/public/fontEnd.html
+
+để vào trang admin:
+Usernam : nhan
+password: lethanhnhan
